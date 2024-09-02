@@ -1,0 +1,124 @@
+[21:23:11] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:23:11] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:23:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:23:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:23:11] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:23:11] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:23:11] [main/INFO]: Reloading ResourceManager: Default
+[21:23:12] [Worker-Main-4/INFO]: Loaded 7 recipes
+[21:23:13] [Worker-Main-4/INFO]: Loaded 927 advancements
+[21:23:14] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[21:23:14] [Server thread/INFO]: Loading properties
+[21:23:14] [Server thread/INFO]: Default game type: SURVIVAL
+[21:23:14] [Server thread/INFO]: Generating keypair
+[21:23:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:23:14] [Server thread/INFO]: Using epoll channel type
+[21:23:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:23:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:23:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:23:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:23:15] [Server thread/INFO]: Preparing level "world"
+[21:23:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:23:17] [Server thread/INFO]: Preparing spawn area: 0%
+[21:23:17] [Server thread/INFO]: Preparing spawn area: 0%
+[21:23:17] [Server thread/INFO]: Preparing spawn area: 0%
+[21:23:17] [Server thread/INFO]: Preparing spawn area: 0%
+[21:23:17] [Server thread/INFO]: Preparing spawn area: 0%
+[21:23:20] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[21:23:20] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[21:23:20] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[21:23:20] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[21:23:20] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[21:23:20] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[21:23:20] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[21:23:21] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[21:23:21] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[21:23:22] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[21:23:22] [Worker-Main-5/INFO]: Preparing spawn area: 84%
+[21:23:23] [Worker-Main-5/INFO]: Preparing spawn area: 87%
+[21:23:23] [Worker-Main-6/INFO]: Preparing spawn area: 93%
+[21:23:24] [Server thread/INFO]: Preparing spawn area: 98%
+[21:23:24] [Server thread/INFO]: Time elapsed: 9118 ms
+[21:23:24] [Server thread/INFO]: Done (9.258s)! For help, type "help"
+[21:23:27] [Server thread/INFO]: Teabos[/127.215.176.109:34683] logged in with entity id 71 at (103.5, 64.0, 265.5)
+[21:23:27] [Server thread/INFO]: Teabos joined the game
+[21:23:31] [Server thread/INFO]: B_oee[/127.144.35.10:52365] logged in with entity id 193 at (110.5, 69.0, 256.5)
+[21:23:31] [Server thread/INFO]: B_oee joined the game
+[21:24:08] [Server thread/INFO]: Gamerule keepInventory is now set to: true
+[21:24:18] [Server thread/INFO]: Made B_oee a server operator
+[21:24:25] [Server thread/INFO]: [B_oee: Gamerule keepInventory is now set to: true]
+[21:24:35] [Server thread/INFO]: Made B_oee no longer a server operator
+[21:25:40] [Server thread/INFO]: Teabos has made the advancement [Stone Age]
+[21:25:47] [Server thread/INFO]: B_oee has made the advancement [Stone Age]
+[21:26:19] [Server thread/INFO]: B_oee has made the advancement [Getting an Upgrade]
+[21:26:26] [Server thread/INFO]: Teabos has made the advancement [Getting an Upgrade]
+[21:28:49] [Server thread/INFO]: No entity was found
+[21:29:04] [Server thread/INFO]: Teleported B_oee to Teabos
+[21:29:09] [Server thread/INFO]: B_oee has made the advancement [Monster Hunter]
+[21:29:55] [Server thread/INFO]: B_oee burned to death
+[21:30:06] [Server thread/INFO]: Teleported B_oee to Teabos
+[21:30:45] [Server thread/INFO]: Teabos tried to swim in lava
+[21:30:55] [Server thread/INFO]: Teleported Teabos to B_oee
+[21:33:29] [Server thread/INFO]: B_oee has made the advancement [Acquire Hardware]
+[21:33:54] [Server thread/INFO]: Teabos has made the advancement [Monster Hunter]
+[21:34:18] [Server thread/INFO]: B_oee was shot by Skeleton
+[21:34:29] [Server thread/INFO]: Teleported B_oee to Teabos
+[21:34:52] [Server thread/INFO]: Teabos was slain by Zombie
+[21:35:19] [Server thread/INFO]: Teleported Teabos to B_oee
+[21:35:58] [Server thread/INFO]: B_oee has made the advancement [Isn't It Iron Pick]
+[21:36:02] [Server thread/INFO]: Teabos has made the advancement [Acquire Hardware]
+[21:38:27] [Server thread/INFO]: B_oee tried to swim in lava to escape Skeleton
+[21:38:29] [Server thread/INFO]: Teabos has made the advancement [Sweet Dreams]
+[21:38:34] [Server thread/INFO]: Teleported B_oee to Teabos
+[21:38:37] [Server thread/INFO]: B_oee has made the advancement [Sweet Dreams]
+[21:39:31] [Server thread/INFO]: B_oee has made the advancement [Not Today, Thank You]
+[21:39:32] [Server thread/INFO]: Teabos has made the advancement [Isn't It Iron Pick]
+[21:39:46] [Server thread/INFO]: B_oee was shot by Skeleton
+[21:41:04] [Server thread/INFO]: Teabos burned to death
+[21:43:50] [Server thread/INFO]: B_oee was blown up by Creeper
+[21:43:50] [Server thread/WARN]: B_oee moved wrongly!
+[21:45:45] [Server thread/INFO]: Teabos has made the advancement [Suit Up]
+[21:46:35] [Server thread/INFO]: B_oee has made the advancement [Suit Up]
+[21:50:31] [Server thread/INFO]: Teabos was blown up by Creeper
+[21:51:08] [Server thread/INFO]: <B_oee> hola
+[21:51:18] [Server thread/INFO]: <B_oee> q paso
+[21:51:28] [Server thread/INFO]: <Teabos> encontre una manzana de oro
+[21:51:31] [Server thread/INFO]: <B_oee> ya
+[21:51:33] [Server thread/INFO]: <B_oee> tengo hasta las 6
+[21:51:36] [Server thread/INFO]: <B_oee> me acord
+[21:51:40] [Server thread/INFO]: <B_oee> de un trabajo
+[21:51:41] [Server thread/INFO]: <B_oee> xdDD
+[21:51:47] [Server thread/INFO]: <B_oee> igual mañana salgo a las 9
+[21:51:48] [Server thread/INFO]: <Teabos> .v
+[21:54:00] [Server thread/INFO]: Teabos has made the advancement [Not Today, Thank You]
+[21:55:27] [Server thread/INFO]: Teabos has made the advancement [Diamonds!]
+[21:58:44] [Server thread/INFO]: B_oee was blown up by Creeper
+[22:00:45] [Server thread/INFO]: Teabos was slain by Cave Spider
+[22:03:45] [Server thread/INFO]: No entity was found
+[22:03:50] [Server thread/INFO]: Teleported Teabos to B_oee
+[22:07:57] [Server thread/INFO]: Teleported Teabos to B_oee
+[22:12:04] [Server thread/INFO]: The nearest village is at [-736, ~, -848] (1389 blocks away)
+[22:12:11] [Server thread/INFO]: Teabos lost connection: Disconnected
+[22:12:11] [Server thread/INFO]: Teabos left the game
+[22:12:42] [Server thread/INFO]: Incorrect argument for command
+[22:12:42] [Server thread/INFO]: ...p B_oeetp B_oee -736  -848<--[HERE]
+[22:12:56] [Server thread/INFO]: Made b-oee a server operator
+[22:13:02] [Server thread/INFO]: Made b-oee no longer a server operator
+[22:13:08] [Server thread/INFO]: Made B_oee a server operator
+[22:13:19] [Server thread/INFO]: [B_oee: Teleported B_oee to 512.5, 64.0, 1184.5]
+[22:13:49] [Server thread/INFO]: [B_oee: Saved the game]
+[22:14:05] [Server thread/INFO]: B_oee lost connection: Disconnected
+[22:14:05] [Server thread/INFO]: B_oee left the game
+[22:14:15] [Server thread/INFO]: Stopping the server
+[22:14:15] [Server thread/INFO]: Stopping server
+[22:14:15] [Server thread/INFO]: Saving players
+[22:14:15] [Server thread/INFO]: Saving worlds
+[22:14:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:14:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:14:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:14:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:14:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:14:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:14:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:14:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:14:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
